@@ -14,8 +14,8 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 
-> I turn logs and models into enterprise-grade threat detection systems.  
-> And sometimes, I just make them dance in dashboards.
+> I turn cutting-edge research into production-ready enterprise applications. 
+> And sometimes, I just make emojis dance.
 
 ---
 
