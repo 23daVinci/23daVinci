@@ -2,7 +2,7 @@
 
 🧠 Data Scientist | 🚀 AI Engineer  |🐟 Part-time fisherman
 
-🎓 Incoming MSCS @ Northeastern University | 🏎️ F1 Fan | 🧩 Puzzle Solver  
+🎓 MSCS Student @ Northeastern University | 🏎️ F1 Fan | 🧩 Puzzle Solver  
 
 ---
 
