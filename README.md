@@ -50,5 +50,4 @@ Say hi, share a repo, or send a meme. All welcome 🚀
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanlazarus&show_icons=true&theme=radical&hide=stars)
 -->
-> "Code like you’re the only one who has to read it. Secure like everyone will try to break it." 💻🔐
 
