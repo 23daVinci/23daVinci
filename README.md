@@ -29,8 +29,10 @@
 ---
 
 ### 🔍 Currently Learning
-- 🕸️ Agentic AI Design Patterns  
+- 🕸️ Multi-Agentic Design Patterns  
 - ⛓️ Scalable AI Pipelines with LangGraph  
+- Low-level program Design
+- LLM Interpretability
 
 ---
 
