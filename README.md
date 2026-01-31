@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Naman Lazarus!
 
-🧠 Data Scientist | 🚀 AI Engineer  |🐟 Part-time fisherman
+🧠 ML/AI Engineer | Ex-EY, TCS, TIFR
 
 🎓 MSCS Student @ Northeastern University | 🏎️ F1 Fan | 🧩 Puzzle Solver  
 
